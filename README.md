@@ -36,7 +36,7 @@
   👉 https://zhuiyun.shop
 
 - **官网及备用网址**  
-  👉 https://sub.chasing.sbs:21600
+  👉 https://zhuiyun.xyz
 
 - **官网发布页（防失联）**  
   👉 https://github.com/zhuiyunjiasu/zhuiyun
